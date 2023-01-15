@@ -1,6 +1,3 @@
-// https://jestjs.io/docs/getting-started
-// https://itnext.io/testing-with-jest-in-typescript-cc1cd0095421
-
 import { RoomModel } from '../src/models';
 import { RoomsRepository } from '../src/roomsRepository';
 
